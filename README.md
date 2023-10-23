@@ -1,4 +1,4 @@
-# Python To-Do CLI App
+![image](https://github.com/itxTouseef74/To-Do-CLI/assets/116633040/6422667c-6a5b-461b-8d17-0faf881f6a1f)# Python To-Do CLI App
 
 This Python To-Do CLI (Command Line Interface) application allows users to manage their tasks efficiently. It is built using Python's built-in `sqlite3` module to provide seamless data storage and retrieval.
 
@@ -13,6 +13,7 @@ The application comes with the following features:
 5. **Filter by Status**: View tasks based on their completion status.
 6. **Search Item by ID**: Find a specific task using its unique ID.
 7. **Exit**: Close the application.
+
 
 ## Usage
 
@@ -58,6 +59,10 @@ The application uses a SQLite database to store task information. The database f
 6. To search for an item by ID, select option `6` and enter the task ID.
 
 7. To exit the application, select option `7`.
+
+
+![image](https://github.com/itxTouseef74/To-Do-CLI/assets/116633040/bc0cce18-7070-417b-981b-95b050bb0284)
+
 
 ## Contributing
 
